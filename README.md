@@ -87,10 +87,15 @@ Para saber mais, entre em contato comigo por meio de uma das minhas redes sociai
 </p>
 
 <p>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:fabriciodenig@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
-  <a href="SEU-LINKEDIN">
+
+  <a href="https://www.linkedin.com/in/fabricio-avilaa">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+
+  <a href="https://wa.me/5511998770130">
+    <img src="https://img.shields.io/badge/WhatsApp-111?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
   </a>
 </p>
