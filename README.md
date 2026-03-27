@@ -50,7 +50,7 @@ Landing page com identidade premium (dark + gold), desenvolvida para transmitir 
 <tr>
 <td width="50%">
 
-<h4>🚀 PremiX</h4>
+<h4>📈 PremiX</h4>
 
 Plataforma web com foco em UX/UI e estruturação modular.<br>
 Atuação como desenvolvedor front-end e apoio na definição técnica.
