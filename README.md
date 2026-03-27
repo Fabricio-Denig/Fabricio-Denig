@@ -9,10 +9,11 @@ Graduando em Engenharia de Software pela FIAP e técnico em Informática pela FE
 ### 💻 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs" />
 </p>
 
 ---
+
 ### 🚀 Projetos
 
 <table>
@@ -55,7 +56,7 @@ Plataforma web com foco em UX/UI e estruturação modular.<br>
 Atuação como desenvolvedor front-end e apoio na definição técnica.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 <a href="https://premix-frontend.onrender.com/">Ver projeto →</a>
@@ -70,14 +71,15 @@ Desenvolvimento de sistemas internos para organização de processos, metas e re
 Projeto corporativo com foco em eficiência operacional.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,supabase" />
+  <img src="https://skillicons.dev/icons?i=js,ts,supabase" />
 </p>
 
-<a href="www.linkedin.com/in/fabricio-avilaa">Ver detalhes →</a>
+<a href="https://www.linkedin.com/in/fabricio-avilaa">Ver detalhes →</a>
 
 </td>
 </tr>
 </table>
+
 ---
 
 <p>
@@ -85,19 +87,10 @@ Para saber mais, entre em contato comigo por meio de uma das minhas redes sociai
 </p>
 
 <p>
-  <a href="SEU-INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
-  <a href="SEU-DISCORD">
-    <img src="https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord&logoColor=5865F2"/>
-  </a>
   <a href="mailto:SEUEMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
   <a href="SEU-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="SEU-WHATSAPP">
-    <img src="https://img.shields.io/badge/WhatsApp-111?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
   </a>
 </p>
