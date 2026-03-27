@@ -16,47 +16,69 @@ Graduando em Engenharia de Software pela FIAP e técnico em Informática pela FE
 
 ### 🚀 Projetos
 
-#### 🌐 GO SAFE SEGUROS
+<table>
+<tr>
+<td width="50%">
+
+<h4>🌐 GO SAFE SEGUROS</h4>
+
 Site institucional moderno e responsivo, focado em conversão e apresentação profissional da marca.
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-[Acessar site →](https://gosafeseguros.com.br/)
+<a href="https://gosafeseguros.com.br/">Acessar site →</a>
 
----
+</td>
 
-#### 💼 BS Capital
+<td width="50%">
+
+<h4>💼 BS Capital</h4>
+
 Landing page com identidade premium (dark + gold), desenvolvida para transmitir autoridade e sofisticação.
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-[Acessar site →](https://bs-capital.netlify.app/)
+<a href="https://bs-capital.netlify.app/">Acessar site →</a>
 
----
+</td>
+</tr>
 
-#### 🚀 PremiX
-Plataforma web com foco em UX/UI e estruturação modular. Atuação como desenvolvedor front-end e apoio na definição técnica.
+<tr>
+<td width="50%">
+
+<h4>🚀 PremiX</h4>
+
+Plataforma web com foco em UX/UI e estruturação modular.<br>
+Atuação como desenvolvedor front-end e apoio na definição técnica.
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-[Ver projeto →](https://premix-frontend.onrender.com/)
+<a href="https://premix-frontend.onrender.com/">Ver projeto →</a>
 
----
+</td>
 
-#### 🏢 Atual Intermediação
-Desenvolvimento de sistemas internos para organização de processos, metas e relatórios. Projeto corporativo com foco em eficiência operacional.
+<td width="50%">
+
+<h4>🏢 Atual Intermediação</h4>
+
+Desenvolvimento de sistemas internos para organização de processos, metas e relatórios.<br>
+Projeto corporativo com foco em eficiência operacional.
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,supabase" />
 </p>
 
-[Ver detalhes →](https://www.linkedin.com/in/fabricio-avilaa/)
+<a href="https://www.linkedin.com/in/fabricio-avilaa">Ver detalhes →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
