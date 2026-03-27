@@ -14,10 +14,73 @@ Graduando em Engenharia de Software pela FIAP e técnico em Informática pela FE
 
 ---
 
-### 📊 Most Used Languages
+### 🚀 Projetos
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Denig&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&cache_seconds=86400)
+<table>
+<tr>
+<td width="50%">
 
+<h4>🏢 Intranet Corporativa</h4>
+
+Sistema interno completo para gestão de usuários, metas, clientes e relatórios.<br>
+Foco em performance, UX/UI e integração com Supabase.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,supabase" />
+</p>
+
+<a href="SEU-LINK-REPO-INTRANET">Ver projeto →</a>
+
+</td>
+
+<td width="50%">
+
+<h4>🚀 PremiX</h4>
+
+Plataforma web com foco em experiência do usuário e interface moderna.<br>
+Atuação como front-end e definição técnica do sistema.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+<a href="SEU-LINK-REPO-PREMIX">Ver projeto →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h4>🌐 GO SAFE SEGUROS</h4>
+
+Site institucional com design moderno e responsivo.<br>
+Foco em conversão e apresentação profissional.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<a href="SEU-LINK-SITE">Ver projeto →</a>
+
+</td>
+
+<td width="50%">
+
+<h4>🛒 LU Marcas</h4>
+
+E-commerce em desenvolvimento com foco mobile-first.<br>
+Interface rápida, moderna e escalável.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<a href="#">Em breve</a>
+
+</td>
+</tr>
+</table>
 ---
 
 <p>
