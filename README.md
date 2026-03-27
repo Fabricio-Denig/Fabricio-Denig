@@ -17,7 +17,10 @@ Graduando em Engenharia de Software pela FIAP e técnico em Informática pela FE
 ### 📊 Most Used Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Denig&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Denig&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&cache_seconds=86400"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
