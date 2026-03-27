@@ -1,9 +1,7 @@
-<h2>Fabricio Denig</h2>
+<h2>👨‍💻Fabricio Denig</h2>
 
 <p>
-Desenvolvedor Web focado em Front-End e UX/UI.<br>
-Apaixonado por tecnologia e criação de interfaces modernas.<br>
-Busco constantemente evoluir minhas habilidades e construir projetos reais.
+Graduando em Engenharia de Software pela FIAP e técnico em Informática pela FECAP. Atualmente, atuo como estagiário no desenvolvimento de sistemas web e soluções internas, transformando conceitos de programação em interfaces funcionais e processos organizados. Como cofundador da startup PremiX, alinho visão estratégica ao desenvolvimento técnico.
 </p>
 
 ---
