@@ -74,7 +74,7 @@ Projeto corporativo com foco em eficiência operacional.
   <img src="https://skillicons.dev/icons?i=js,ts,supabase" />
 </p>
 
-<a href="[https://www.linkedin.com/in/fabricio-avilaa](https://www.linkedin.com/posts/fabricio-avilaa_tecnologia-desenvolvimentoweb-javascript-ugcPost-7461031844608798720-GNoU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4avs4BXbpRVlrA34qXLRzPfZJYTMq8xwo)">Ver detalhes →</a>
+<a href="https://www.linkedin.com/posts/fabricio-avilaa_tecnologia-desenvolvimentoweb-javascript-ugcPost-7461031844608798720-GNoU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4avs4BXbpRVlrA34qXLRzPfZJYTMq8xwo">Ver detalhes →</a>
 
 </td>
 </tr>
